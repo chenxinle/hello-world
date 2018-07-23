@@ -1,4 +1,5 @@
 a new file
+change file
 
 modified
 modified again
